@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bobo-bice.vercel.app/sitemap.xml
+Sitemap: https://jojobetguncelgiris.shop/sitemap.xml
