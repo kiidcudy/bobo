@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jojobetguncelgiris.shop/sitemap.xml
+Sitemap: https://www.jojobetguncelgiris.shop/sitemap.xml
